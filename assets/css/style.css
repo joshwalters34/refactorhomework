@@ -14,13 +14,13 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*taking notes */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-
+h2 
 ul {
     list-style-type: none;
     padding-top: 15px;

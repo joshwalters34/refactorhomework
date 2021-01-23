@@ -1,6 +1,6 @@
 # refactorhomework
 
-changes made
+changes I made to refactor the code
 - gave the site a title of "Horiseon"
 - updated class="header" to a header tag
 - updated class="footer" to a footer tag
