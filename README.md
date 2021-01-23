@@ -14,3 +14,6 @@ changes I made to refactor the code
 - changed the div with class name of hero to an image tag with id of hero, since img tag makes more sense.  And I changed to an id because this is the only image using this style
 - added alt description for the images
 - cleaned up the image tags for the images in right sidebar
+- took out the individual classes for each of the 3 sections under content and created 1 class for all
+- did the same thing for the images within each section, they had unique classes and I combined them into 1 class
+the changes I made impacted the header, so I changed the header, ul, and li tags to be flex boxes and added a few things to get the look the same.

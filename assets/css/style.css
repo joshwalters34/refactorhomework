@@ -13,26 +13,34 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 /*taking notes */
 h1 {
-    display: inline-block;
+    display: flex;
     font-size: 48px;
 }
-
-h2 
+ 
 ul {
     list-style-type: none;
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    display: flex;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    
 }
 
 li {
-    display: inline-block;
+    display: flex;
     margin-left: 25px;
+    float: right;
+    align-items: center;
+    font-size: 20px;
+    flex-direction: row-reverse;
+
 }
 
 a {
@@ -127,7 +135,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.SEO-ORM-SMM {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -136,33 +144,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.SEO-ORM-SMM img {
     max-height: 200px;
 }
 
