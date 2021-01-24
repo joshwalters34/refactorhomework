@@ -21,6 +21,7 @@ the changes I made impacted the header, so I changed the header, ul, and li tags
 - changed the h3 tags in the benefit section to just be h3, and not mention the benefits class.  ANd I only left 1 there, since they're all the same
 - did the same with the h2 tags, except I left the footer h2 tag since it's different
 - added anchors to the top menu to take me to the appropriate section on the page
+- changed the h2 tag in the footer to an h4 so that they fall in sequential order.  I updated the font size to match the h2 tag
 
 CSS document organizatin
 - I went with main styles first
